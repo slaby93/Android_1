@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zajecia_1</string>
+    <string name="input_default_text">Input text here ...</string>
+    <string name="buttonText">Click to change text</string>
+</resources>
